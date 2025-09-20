@@ -1,3 +1,7 @@
+LINK PDF ANALISIS PROTOKOL
+- https://github.com/Haykaldn/Praktek-Mandiri-_Sistem-Terdistribusi_Haykal-Dani-Muhammad/blob/main/Analisis.pdf
+
+
 # Distributed Systems Practice - Containerized
 
 This repository demonstrates multiple distributed system communication patterns. Each section now has an isolated Docker / Docker Compose setup so the host Python environment remains untouched.
